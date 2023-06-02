@@ -1,0 +1,17 @@
+23 1194 458 172 93 0.47495 Sinalizacao_Horizontal None None
+23 626 452 571 67 0.572814 Sinalizacao_Horizontal None None
+24 804 282 28 28 0.602542 Placa None None
+16 1268 353 22 45 0.6159 Lixeira None None
+1 1119 508 322 149 0.617064 Valeta None None
+24 24 195 48 85 0.634577 Placa None None
+24 871 267 44 39 0.724024 Placa None None
+24 1263 209 32 34 0.737754 Placa None None
+24 709 174 84 46 0.782161 Placa None None
+11 24 194 48 86 0.67801 Placa_de_regulamento None None
+11 706 174 84 45 0.692577 Placa_de_regulamento None None
+11 804 281 30 29 0.694156 Placa_de_regulamento None None
+11 1263 209 34 38 0.726831 Placa_de_regulamento None None
+12 871 266 44 39 0.751341 Placa_de_advertencia None None
+30 1120 519 317 182 0.783774 Sarjetao_inadequado None None
+34 1214 448 132 106 0.472789 faixa_de_pedestre None None
+34 624 454 540 79 0.78878 faixa_de_pedestre None None

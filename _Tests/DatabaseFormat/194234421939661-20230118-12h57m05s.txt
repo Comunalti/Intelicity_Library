@@ -1,0 +1,4 @@
+25 741 857 528 196 0.421166 Fissura None None
+1 895 748 253 105 0.572646 Valeta None None
+6 729 850 452 126 0.478321 Fissura_Couro_de_Jacare None None
+30 893 718 248 81 0.25338 Sarjetao_inadequado None None

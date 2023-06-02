@@ -1,0 +1,3 @@
+23 1097 618 364 150 0.689059 Sinalizacao_Horizontal None None
+1 993 708 395 300 0.735238 Valeta None None
+29 143 649 286 166 0.832447 Sarjetao_adequado None None

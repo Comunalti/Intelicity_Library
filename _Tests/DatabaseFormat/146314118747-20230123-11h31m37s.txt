@@ -1,0 +1,2 @@
+5 1103 805 340 100 0.56209 Remendo None None
+0 656 667 308 43 0.572994 Lombada None None

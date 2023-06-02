@@ -1,0 +1,7 @@
+24 421 409 39 40 0.455466 Placa None None
+23 1120 550 320 88 0.504621 Sinalizacao_Horizontal None None
+11 422 409 38 40 0.584141 Placa_de_regulamento None None
+34 1130 549 299 96 0.583479 faixa_de_pedestre None None
+34 369 841 739 232 0.644464 faixa_de_pedestre None None
+34 1130 549 299 96 0.583479 faixa_de_pedestre None None
+34 369 841 739 232 0.644464 faixa_de_pedestre None None

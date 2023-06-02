@@ -1,0 +1,16 @@
+23 483 555 634 64 0.507883 Sinalizacao_Horizontal None None
+23 1145 648 268 142 0.522566 Sinalizacao_Horizontal None None
+24 292 378 46 55 0.529804 Placa None None
+24 632 131 120 63 0.557622 Placa None None
+23 639 846 1275 226 0.592399 Sinalizacao_Horizontal None None
+24 1265 324 29 57 0.626267 Placa None None
+24 105 48 208 94 0.694628 Placa None None
+11 699 394 24 25 0.282622 Placa_de_regulamento None None
+12 463 717 32 39 0.324202 Placa_de_advertencia None None
+14 631 135 126 64 0.334969 Placa_educativa None None
+13 108 49 204 99 0.639638 Placa_de_indicacao None None
+11 291 379 46 55 0.640978 Placa_de_regulamento None None
+11 1264 326 30 63 0.641851 Placa_de_regulamento None None
+34 1164 646 231 151 0.449318 faixa_de_pedestre None None
+34 496 554 609 69 0.755002 faixa_de_pedestre None None
+34 639 837 1264 240 0.782644 faixa_de_pedestre None None

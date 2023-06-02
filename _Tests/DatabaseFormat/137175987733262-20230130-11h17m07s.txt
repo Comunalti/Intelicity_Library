@@ -1,0 +1,4 @@
+23 1140 774 279 190 0.440537 Sinalizacao_Horizontal None None
+1 1011 819 482 276 0.702777 Valeta None None
+30 1015 820 529 277 0.939577 Sarjetao_inadequado None None
+34 1169 759 217 187 0.370239 faixa_de_pedestre None None

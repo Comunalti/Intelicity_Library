@@ -1,0 +1,7 @@
+24 322 307 32 40 0.587052 Placa None None
+23 1069 410 303 79 0.601751 Sinalizacao_Horizontal None None
+24 320 276 30 27 0.640244 Placa None None
+24 1023 223 39 34 0.688679 Placa None None
+11 1023 222 38 31 0.678386 Placa_de_regulamento None None
+11 320 276 32 28 0.69062 Placa_de_regulamento None None
+34 1069 408 275 99 0.833908 faixa_de_pedestre None None

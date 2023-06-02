@@ -1,0 +1,4 @@
+26 650 727 192 66 0.621457 Tampa_de_PV None None
+1 940 726 556 418 0.668405 Valeta None None
+3 654 727 192 64 0.712245 Tampa_pv_adequada None None
+30 932 648 580 288 0.792639 Sarjetao_inadequado None None

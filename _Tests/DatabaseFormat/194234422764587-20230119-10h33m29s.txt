@@ -1,0 +1,3 @@
+23 1008 549 534 129 0.438733 Sinalizacao_Horizontal None None
+24 702 346 53 49 0.476322 Placa None None
+16 919 424 46 54 0.676158 Lixeira None None

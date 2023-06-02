@@ -1,0 +1,2 @@
+1 422 763 835 186 0.616757 Valeta None None
+30 430 767 847 229 0.88059 Sarjetao_inadequado None None

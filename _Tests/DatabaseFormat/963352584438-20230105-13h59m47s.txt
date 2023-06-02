@@ -1,0 +1,4 @@
+23 1148 622 262 94 0.497998 Sinalizacao_Horizontal None None
+23 708 797 1104 243 0.627304 Sinalizacao_Horizontal None None
+34 1160 616 237 100 0.689296 faixa_de_pedestre None None
+34 719 789 1116 253 0.843647 faixa_de_pedestre None None

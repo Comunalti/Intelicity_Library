@@ -1,0 +1,2 @@
+26 941 816 253 84 0.656545 Tampa_de_PV None None
+3 936 814 206 55 0.722539 Tampa_pv_adequada None None

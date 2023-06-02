@@ -1,0 +1,4 @@
+23 596 828 1194 252 0.560798 Sinalizacao_Horizontal None None
+1 864 620 340 189 0.569407 Valeta None None
+23 1052 570 452 117 0.603859 Sinalizacao_Horizontal None None
+30 885 622 423 193 0.920112 Sarjetao_inadequado None None

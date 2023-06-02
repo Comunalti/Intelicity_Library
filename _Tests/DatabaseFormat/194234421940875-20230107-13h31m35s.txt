@@ -1,0 +1,2 @@
+1 405 527 809 76 0.473786 Valeta None None
+30 656 842 1241 217 0.520034 Sarjetao_inadequado None None

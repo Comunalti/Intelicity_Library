@@ -1,0 +1,2 @@
+24 784 340 44 42 0.674231 Placa None None
+11 784 340 50 45 0.675681 Placa_de_regulamento None None

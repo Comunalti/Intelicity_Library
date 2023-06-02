@@ -1,0 +1,2 @@
+1 724 849 209 214 0.675135 Valeta None None
+30 729 843 263 229 0.928375 Sarjetao_inadequado None None

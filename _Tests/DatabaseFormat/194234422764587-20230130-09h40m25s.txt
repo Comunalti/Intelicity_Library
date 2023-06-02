@@ -1,0 +1,4 @@
+1 1076 883 405 153 0.639419 Valeta None None
+24 1124 540 70 69 0.657242 Placa None None
+12 1124 541 72 72 0.740432 Placa_de_advertencia None None
+30 1065 885 428 150 0.900486 Sarjetao_inadequado None None

@@ -1,0 +1,10 @@
+24 952 390 38 54 0.472316 Placa None None
+23 1035 588 488 175 0.480457 Sinalizacao_Horizontal None None
+1 877 643 360 292 0.639506 Valeta None None
+24 604 121 164 97 0.738923 Placa None None
+11 656 354 32 51 0.420595 Placa_de_regulamento None None
+11 950 390 55 67 0.582795 Placa_de_regulamento None None
+11 984 385 54 55 0.658719 Placa_de_regulamento None None
+13 600 121 169 108 0.797298 Placa_de_indicacao None None
+30 917 640 451 274 0.63024 Sarjetao_inadequado None None
+34 1037 594 392 151 0.496395 faixa_de_pedestre None None

@@ -1,0 +1,5 @@
+23 504 576 172 36 0.492276 Sinalizacao_Horizontal None None
+24 740 282 70 67 0.613552 Placa None None
+24 728 228 76 64 0.663855 Placa None None
+23 469 646 399 67 0.704712 Sinalizacao_Horizontal None None
+11 740 284 60 58 0.473703 Placa_de_regulamento None None

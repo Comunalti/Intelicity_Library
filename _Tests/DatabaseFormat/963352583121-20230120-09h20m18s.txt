@@ -1,0 +1,2 @@
+1 110 550 220 126 0.552955 Valeta None None
+30 111 565 222 139 0.668942 Sarjetao_inadequado None None

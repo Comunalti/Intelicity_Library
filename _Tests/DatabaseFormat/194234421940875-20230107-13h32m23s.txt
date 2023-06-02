@@ -1,0 +1,2 @@
+1 408 526 816 76 0.466683 Valeta None None
+30 656 846 1240 210 0.3738 Sarjetao_inadequado None None

@@ -1,0 +1,8 @@
+5 808 817 492 283 0.416938 Remendo None None
+23 470 655 536 67 0.573265 Sinalizacao_Horizontal None None
+23 1078 655 402 115 0.587878 Sinalizacao_Horizontal None None
+1 917 726 312 189 0.684269 Valeta None None
+29 919 733 344 190 0.485858 Sarjetao_adequado None None
+30 917 732 336 190 0.886104 Sarjetao_inadequado None None
+34 481 655 531 61 0.753644 faixa_de_pedestre None None
+34 1098 649 362 121 0.77572 faixa_de_pedestre None None

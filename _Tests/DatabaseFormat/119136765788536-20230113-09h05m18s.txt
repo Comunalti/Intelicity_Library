@@ -1,0 +1,3 @@
+24 965 37 126 73 0.412776 Placa None None
+1 923 663 698 559 0.414505 Valeta None None
+30 868 556 592 378 0.873376 Sarjetao_inadequado None None

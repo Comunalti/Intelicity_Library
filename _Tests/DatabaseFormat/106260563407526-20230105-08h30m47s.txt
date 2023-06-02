@@ -1,0 +1,4 @@
+24 1187 23 30 38 0.47225 Placa None None
+23 640 346 1280 200 0.489559 Sinalizacao_Horizontal None None
+24 390 54 30 29 0.588839 Placa None None
+23 98 201 196 84 0.605524 Sinalizacao_Horizontal None None

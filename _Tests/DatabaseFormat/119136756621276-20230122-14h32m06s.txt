@@ -1,0 +1,3 @@
+1 1042 776 475 316 0.484251 Valeta None None
+26 959 751 144 46 0.504899 Tampa_de_PV None None
+3 964 754 143 43 0.285012 Tampa_pv_adequada None None

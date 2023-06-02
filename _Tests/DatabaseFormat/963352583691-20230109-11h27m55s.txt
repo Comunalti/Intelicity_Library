@@ -1,0 +1,7 @@
+23 1160 636 239 156 0.453662 Sinalizacao_Horizontal None None
+9 22 559 43 34 0.489406 Boca_de_Lobo None None
+23 260 542 255 45 0.506759 Sinalizacao_Horizontal None None
+9 56 550 50 31 0.514655 Boca_de_Lobo None None
+1 1072 717 415 280 0.591279 Valeta None None
+24 1008 305 64 58 0.710292 Placa None None
+11 1008 306 66 63 0.726879 Placa_de_regulamento None None

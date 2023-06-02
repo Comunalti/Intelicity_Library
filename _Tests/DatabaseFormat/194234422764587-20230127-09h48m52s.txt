@@ -1,0 +1,6 @@
+1 1018 836 523 237 0.589074 Valeta None None
+23 1100 782 359 153 0.613744 Sinalizacao_Horizontal None None
+30 72 757 141 91 0.254022 Sarjetao_inadequado None None
+30 1005 828 548 211 0.881435 Sarjetao_inadequado None None
+34 1111 781 337 166 0.78266 faixa_de_pedestre None None
+34 560 868 1119 180 0.826137 faixa_de_pedestre None None

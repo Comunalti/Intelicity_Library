@@ -1,0 +1,7 @@
+16 769 408 28 40 0.475426 Lixeira None None
+23 640 712 1280 256 0.653275 Sinalizacao_Horizontal None None
+34 643 447 176 34 0.54035 faixa_de_pedestre None None
+34 633 710 1256 217 0.766868 faixa_de_pedestre None None
+35 764 277 40 348 0.537092 Poste None None
+36 769 407 28 43 0.609567 Lixeira_adequada None None
+35 868 247 73 495 0.805185 Poste None None

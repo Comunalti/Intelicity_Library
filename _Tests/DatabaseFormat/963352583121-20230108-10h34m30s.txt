@@ -1,0 +1,9 @@
+23 564 514 554 60 0.418222 Sinalizacao_Horizontal None None
+23 640 793 1280 259 0.456983 Sinalizacao_Horizontal None None
+23 1128 557 303 135 0.566906 Sinalizacao_Horizontal None None
+1 1060 590 434 187 0.652217 Valeta None None
+30 154 604 308 187 0.871419 Sarjetao_inadequado None None
+30 1052 627 454 264 0.90828 Sarjetao_inadequado None None
+34 1136 553 286 138 0.659954 faixa_de_pedestre None None
+34 567 509 532 64 0.678657 faixa_de_pedestre None None
+34 637 789 1272 286 0.841796 faixa_de_pedestre None None

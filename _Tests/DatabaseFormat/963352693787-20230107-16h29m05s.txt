@@ -1,0 +1,2 @@
+24 813 222 49 47 0.733235 Placa None None
+11 812 223 48 47 0.76938 Placa_de_regulamento None None

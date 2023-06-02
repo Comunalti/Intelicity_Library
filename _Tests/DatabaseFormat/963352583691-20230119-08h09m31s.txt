@@ -1,0 +1,6 @@
+24 1080 362 56 118 0.497959 Placa None None
+24 416 90 68 64 0.616223 Placa None None
+24 785 291 80 76 0.75982 Placa None None
+11 634 376 35 37 0.251138 Placa_de_regulamento None None
+11 416 88 63 61 0.588849 Placa_de_regulamento None None
+11 784 291 84 81 0.7421 Placa_de_regulamento None None

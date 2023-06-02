@@ -1,0 +1,9 @@
+26 494 737 186 73 0.522707 Tampa_de_PV None None
+9 1038 821 291 151 0.536252 Boca_de_Lobo None None
+23 401 798 792 259 0.585046 Sinalizacao_Horizontal None None
+1 409 669 815 106 0.590933 Valeta None None
+24 992 96 88 122 0.730009 Placa None None
+24 260 358 58 52 0.746502 Placa None None
+11 988 115 76 82 0.72934 Placa_de_regulamento None None
+11 258 358 56 54 0.754352 Placa_de_regulamento None None
+3 492 739 164 49 0.516566 Tampa_pv_adequada None None

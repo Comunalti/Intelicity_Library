@@ -1,0 +1,6 @@
+23 376 116 754 133 0.637276 Sinalizacao_Horizontal None None
+1 1032 250 496 357 0.701312 Valeta None None
+26 780 240 172 63 0.719774 Tampa_de_PV None None
+3 780 240 168 58 0.776224 Tampa_pv_adequada None None
+30 1014 241 531 321 0.91472 Sarjetao_inadequado None None
+34 384 119 768 153 0.785016 faixa_de_pedestre None None

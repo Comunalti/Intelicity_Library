@@ -1,0 +1,7 @@
+23 391 145 434 58 0.613626 Sinalizacao_Horizontal None None
+23 524 415 1043 304 0.647363 Sinalizacao_Horizontal None None
+1 828 228 372 195 0.647574 Valeta None None
+23 1034 171 491 129 0.652892 Sinalizacao_Horizontal None None
+34 396 148 424 67 0.773884 faixa_de_pedestre None None
+34 1043 170 474 136 0.804258 faixa_de_pedestre None None
+34 498 413 991 297 0.820827 faixa_de_pedestre None None

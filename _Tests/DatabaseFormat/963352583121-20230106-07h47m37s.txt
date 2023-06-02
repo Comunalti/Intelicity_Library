@@ -1,0 +1,10 @@
+24 1264 295 30 70 0.411072 Placa None None
+23 687 538 871 79 0.480315 Sinalizacao_Horizontal None None
+23 613 441 404 42 0.538284 Sinalizacao_Horizontal None None
+23 1129 490 299 105 0.632466 Sinalizacao_Horizontal None None
+23 172 491 344 112 0.64826 Sinalizacao_Horizontal None None
+11 1265 295 28 66 0.585943 Placa_de_regulamento None None
+34 612 439 404 49 0.740965 faixa_de_pedestre None None
+34 685 537 860 75 0.754087 faixa_de_pedestre None None
+34 1136 490 286 108 0.799174 faixa_de_pedestre None None
+34 163 490 324 112 0.803409 faixa_de_pedestre None None

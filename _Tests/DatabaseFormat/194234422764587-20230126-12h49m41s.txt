@@ -1,0 +1,2 @@
+24 1079 439 74 78 0.706806 Placa None None
+11 1078 440 81 91 0.731624 Placa_de_regulamento None None

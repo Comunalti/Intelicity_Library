@@ -1,0 +1,3 @@
+26 184 860 148 52 0.410133 Tampa_de_PV None None
+23 460 831 916 132 0.582083 Sinalizacao_Horizontal None None
+3 183 858 136 43 0.69306 Tampa_pv_adequada None None

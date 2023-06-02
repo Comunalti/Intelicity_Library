@@ -1,0 +1,5 @@
+23 346 175 616 73 0.458481 Sinalizacao_Horizontal None None
+23 1069 178 420 148 0.670608 Sinalizacao_Horizontal None None
+1 643 361 1264 265 0.733492 Valeta None None
+29 639 904 1232 111 0.805618 Sarjetao_adequado None None
+29 637 358 1267 265 0.89194 Sarjetao_adequado None None

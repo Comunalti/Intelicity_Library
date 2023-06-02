@@ -1,0 +1,3 @@
+1 1060 351 435 232 0.680166 Valeta None None
+23 1068 258 424 156 0.696467 Sinalizacao_Horizontal None None
+30 1060 336 434 229 0.92733 Sarjetao_inadequado None None

@@ -1,0 +1,5 @@
+23 1016 832 337 96 0.497111 Sinalizacao_Horizontal None None
+23 557 687 572 73 0.626191 Sinalizacao_Horizontal None None
+24 916 454 48 40 0.684292 Placa None None
+24 916 496 60 49 0.701428 Placa None None
+12 916 493 60 51 0.750591 Placa_de_advertencia None None

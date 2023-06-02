@@ -1,0 +1,2 @@
+1 972 765 596 388 0.643542 Valeta None None
+30 979 768 592 384 0.91007 Sarjetao_inadequado None None

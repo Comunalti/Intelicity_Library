@@ -1,0 +1,3 @@
+23 1138 521 283 175 0.557208 Sinalizacao_Horizontal None None
+1 1054 651 440 264 0.717122 Valeta None None
+30 1032 640 468 285 0.798122 Sarjetao_inadequado None None

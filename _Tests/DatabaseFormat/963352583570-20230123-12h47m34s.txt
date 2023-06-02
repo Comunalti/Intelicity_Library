@@ -1,0 +1,3 @@
+23 244 748 488 100 0.59591 Sinalizacao_Horizontal None None
+24 1012 468 74 67 0.728183 Placa None None
+11 1011 467 78 75 0.773698 Placa_de_regulamento None None

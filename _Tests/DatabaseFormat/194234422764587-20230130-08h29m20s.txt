@@ -1,0 +1,4 @@
+1 388 799 768 73 0.557883 Valeta None None
+23 111 706 222 144 0.618431 Sinalizacao_Horizontal None None
+30 1030 889 495 142 0.492636 Sarjetao_inadequado None None
+34 90 699 180 139 0.564478 faixa_de_pedestre None None

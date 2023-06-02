@@ -1,0 +1,7 @@
+23 1128 754 302 280 0.515851 Sinalizacao_Horizontal None None
+23 441 763 327 55 0.528173 Sinalizacao_Horizontal None None
+5 680 754 177 49 0.604269 Remendo None None
+1 1019 854 507 211 0.631492 Valeta None None
+30 1021 853 516 211 0.941275 Sarjetao_inadequado None None
+34 1146 751 267 231 0.567509 faixa_de_pedestre None None
+34 448 759 344 64 0.664632 faixa_de_pedestre None None

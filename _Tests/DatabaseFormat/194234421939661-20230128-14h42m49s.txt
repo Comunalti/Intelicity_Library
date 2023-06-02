@@ -1,0 +1,7 @@
+23 564 680 344 52 0.569537 Sinalizacao_Horizontal None None
+23 1080 643 395 160 0.628185 Sinalizacao_Horizontal None None
+1 923 780 345 255 0.684307 Valeta None None
+30 86 848 173 202 0.467572 Sarjetao_inadequado None None
+30 967 808 464 301 0.909889 Sarjetao_inadequado None None
+34 562 682 327 64 0.785726 faixa_de_pedestre None None
+34 1095 650 365 153 0.81989 faixa_de_pedestre None None

@@ -1,0 +1,7 @@
+9 1210 479 111 55 0.469622 Boca_de_Lobo None None
+1 1094 607 372 205 0.482514 Valeta None None
+9 67 581 73 43 0.528557 Boca_de_Lobo None None
+9 26 598 52 48 0.595331 Boca_de_Lobo None None
+27 56 574 95 43 0.296235 Boca_de_lobo_adequada None None
+27 28 594 56 48 0.35033 Boca_de_lobo_adequada None None
+30 1063 597 432 183 0.819156 Sarjetao_inadequado None None

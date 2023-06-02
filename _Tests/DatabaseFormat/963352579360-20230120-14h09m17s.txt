@@ -1,0 +1,2 @@
+23 380 443 92 46 0.655001 Sinalizacao_Horizontal None None
+34 637 528 1270 136 0.788958 faixa_de_pedestre None None

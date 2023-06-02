@@ -1,0 +1,6 @@
+23 401 755 771 274 0.450175 Sinalizacao_Horizontal None None
+23 871 495 640 121 0.59743 Sinalizacao_Horizontal None None
+1 612 575 387 231 0.739466 Valeta None None
+30 646 604 484 280 0.842562 Sarjetao_inadequado None None
+34 472 723 608 232 0.711094 faixa_de_pedestre None None
+34 858 495 537 132 0.833778 faixa_de_pedestre None None

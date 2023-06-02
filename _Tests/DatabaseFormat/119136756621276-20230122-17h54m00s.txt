@@ -1,0 +1,6 @@
+5 504 627 153 37 0.583617 Remendo None None
+5 618 595 204 49 0.607802 Remendo None None
+26 707 793 271 85 0.741016 Tampa_de_PV None None
+1 1027 776 500 340 0.765394 Valeta None None
+3 711 796 253 66 0.637017 Tampa_pv_adequada None None
+30 1021 778 507 322 0.936512 Sarjetao_inadequado None None

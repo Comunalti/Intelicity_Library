@@ -1,0 +1,4 @@
+1 156 629 248 130 0.507906 Valeta None None
+1 983 654 276 133 0.653663 Valeta None None
+30 984 662 304 141 0.888892 Sarjetao_inadequado None None
+30 152 631 276 132 0.891179 Sarjetao_inadequado None None

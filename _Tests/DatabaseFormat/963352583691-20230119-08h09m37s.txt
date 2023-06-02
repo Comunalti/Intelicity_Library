@@ -1,0 +1,7 @@
+9 804 494 46 28 0.413293 Boca_de_Lobo None None
+9 769 494 39 27 0.466367 Boca_de_Lobo None None
+23 1044 662 471 351 0.527253 Sinalizacao_Horizontal None None
+1 972 724 608 471 0.646619 Valeta None None
+16 741 417 35 46 0.653102 Lixeira None None
+24 1213 205 88 82 0.75499 Placa None None
+11 1212 206 86 79 0.714001 Placa_de_regulamento None None

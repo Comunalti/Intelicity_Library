@@ -1,0 +1,8 @@
+23 1083 514 392 100 0.459242 Sinalizacao_Horizontal None None
+16 740 400 38 43 0.485296 Lixeira None None
+24 663 172 138 91 0.509282 Placa None None
+24 959 224 60 58 0.585262 Placa None None
+23 492 685 984 235 0.588577 Sinalizacao_Horizontal None None
+11 664 171 115 64 0.476675 Placa_de_regulamento None None
+11 958 225 70 67 0.652965 Placa_de_regulamento None None
+11 65 217 49 45 0.666457 Placa_de_regulamento None None

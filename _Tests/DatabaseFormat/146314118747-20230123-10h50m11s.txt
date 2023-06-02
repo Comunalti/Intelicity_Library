@@ -1,0 +1,6 @@
+26 1012 800 169 64 0.410145 Tampa_de_PV None None
+1 948 833 625 253 0.513056 Valeta None None
+23 392 666 94 42 0.537553 Sinalizacao_Horizontal None None
+23 532 661 82 43 0.578681 Sinalizacao_Horizontal None None
+3 1019 801 164 55 0.678131 Tampa_pv_adequada None None
+30 931 826 680 265 0.901083 Sarjetao_inadequado None None

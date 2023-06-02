@@ -1,0 +1,5 @@
+23 1059 628 442 271 0.472808 Sinalizacao_Horizontal None None
+1 929 680 654 322 0.573666 Valeta None None
+30 931 709 698 382 0.787215 Sarjetao_inadequado None None
+34 180 523 337 75 0.602014 faixa_de_pedestre None None
+34 1113 607 332 252 0.650398 faixa_de_pedestre None None

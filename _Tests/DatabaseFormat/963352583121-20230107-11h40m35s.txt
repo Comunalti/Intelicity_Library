@@ -1,0 +1,8 @@
+23 382 402 192 54 0.447935 Sinalizacao_Horizontal None None
+16 939 361 69 118 0.565267 Lixeira None None
+1 946 718 643 387 0.694808 Valeta None None
+24 877 58 88 114 0.703263 Placa None None
+11 878 55 91 109 0.720787 Placa_de_regulamento None None
+30 938 714 678 373 0.951763 Sarjetao_inadequado None None
+34 1131 601 292 376 0.275548 faixa_de_pedestre None None
+34 392 395 172 57 0.798222 faixa_de_pedestre None None

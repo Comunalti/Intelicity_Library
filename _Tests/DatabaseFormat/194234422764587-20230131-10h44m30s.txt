@@ -1,0 +1,6 @@
+23 169 841 339 81 0.52856 Sinalizacao_Horizontal None None
+23 1092 876 376 154 0.530514 Sinalizacao_Horizontal None None
+1 1001 883 542 153 0.609932 Valeta None None
+30 985 880 588 157 0.914309 Sarjetao_inadequado None None
+34 337 835 675 100 0.767971 faixa_de_pedestre None None
+34 1128 883 303 148 0.768957 faixa_de_pedestre None None

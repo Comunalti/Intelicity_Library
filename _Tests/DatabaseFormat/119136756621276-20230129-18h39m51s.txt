@@ -1,0 +1,4 @@
+23 1011 582 425 106 0.478926 Sinalizacao_Horizontal None None
+1 822 627 303 190 0.659557 Valeta None None
+30 843 633 348 201 0.847346 Sarjetao_inadequado None None
+34 999 579 363 109 0.700024 faixa_de_pedestre None None

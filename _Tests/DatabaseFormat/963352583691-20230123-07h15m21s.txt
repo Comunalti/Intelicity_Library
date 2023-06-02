@@ -1,0 +1,2 @@
+1 338 816 667 238 0.699349 Valeta None None
+30 345 826 688 252 0.91783 Sarjetao_inadequado None None

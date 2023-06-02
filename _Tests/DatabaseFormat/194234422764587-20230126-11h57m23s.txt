@@ -1,0 +1,2 @@
+24 20 520 40 55 0.686155 Placa None None
+11 18 520 37 52 0.735106 Placa_de_regulamento None None

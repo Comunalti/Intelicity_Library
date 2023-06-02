@@ -1,0 +1,5 @@
+24 488 334 116 67 0.505903 Placa None None
+1 940 766 639 385 0.570414 Valeta None None
+23 287 555 350 39 0.595059 Sinalizacao_Horizontal None None
+23 1048 710 463 291 0.644656 Sinalizacao_Horizontal None None
+5 514 673 554 216 0.672902 Remendo None None

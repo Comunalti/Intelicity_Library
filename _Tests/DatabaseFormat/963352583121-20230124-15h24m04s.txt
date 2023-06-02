@@ -1,0 +1,4 @@
+26 650 727 195 69 0.660335 Tampa_de_PV None None
+1 945 729 571 421 0.695171 Valeta None None
+3 651 727 195 64 0.742597 Tampa_pv_adequada None None
+30 925 730 564 460 0.684712 Sarjetao_inadequado None None

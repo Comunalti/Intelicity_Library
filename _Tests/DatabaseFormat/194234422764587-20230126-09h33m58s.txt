@@ -1,0 +1,4 @@
+1 203 849 405 222 0.473761 Valeta None None
+24 57 348 40 42 0.658079 Placa None None
+11 56 348 36 39 0.762 Placa_de_regulamento None None
+30 212 848 424 220 0.867269 Sarjetao_inadequado None None

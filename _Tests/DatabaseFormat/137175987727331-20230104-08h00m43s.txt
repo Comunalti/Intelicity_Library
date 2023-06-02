@@ -1,0 +1,8 @@
+24 527 180 27 40 0.568992 Placa None None
+24 475 169 30 48 0.666259 Placa None None
+24 251 139 44 76 0.728644 Placa None None
+24 1060 165 38 38 0.761842 Placa None None
+11 527 181 29 40 0.464191 Placa_de_regulamento None None
+11 474 170 36 55 0.68321 Placa_de_regulamento None None
+11 1060 166 38 36 0.697195 Placa_de_regulamento None None
+11 251 141 56 86 0.742477 Placa_de_regulamento None None

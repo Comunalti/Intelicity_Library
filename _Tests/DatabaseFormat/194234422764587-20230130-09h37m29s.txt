@@ -1,0 +1,4 @@
+1 204 886 409 145 0.433008 Valeta None None
+24 409 601 74 61 0.711587 Placa None None
+12 409 602 76 67 0.680248 Placa_de_advertencia None None
+30 220 891 436 136 0.899324 Sarjetao_inadequado None None

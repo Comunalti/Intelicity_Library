@@ -1,0 +1,10 @@
+16 1092 645 64 82 0.589798 Lixeira None None
+1 168 850 337 204 0.603978 Valeta None None
+24 848 535 52 67 0.607348 Placa None None
+1 981 802 357 222 0.62102 Valeta None None
+24 835 493 43 39 0.624508 Placa None None
+12 851 533 46 57 0.347488 Placa_de_advertencia None None
+12 1254 294 52 100 0.562606 Placa_de_advertencia None None
+11 834 493 39 34 0.707261 Placa_de_regulamento None None
+30 172 856 343 196 0.877223 Sarjetao_inadequado None None
+30 998 825 399 259 0.921643 Sarjetao_inadequado None None

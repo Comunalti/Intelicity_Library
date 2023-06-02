@@ -1,0 +1,4 @@
+24 816 275 30 30 0.537576 Placa None None
+23 1121 483 316 97 0.578917 Sinalizacao_Horizontal None None
+11 816 275 28 31 0.317874 Placa_de_regulamento None None
+34 1135 479 288 106 0.790882 faixa_de_pedestre None None

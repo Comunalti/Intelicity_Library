@@ -1,0 +1,2 @@
+24 679 37 136 69 0.747055 Placa None None
+11 680 37 135 67 0.764485 Placa_de_regulamento None None

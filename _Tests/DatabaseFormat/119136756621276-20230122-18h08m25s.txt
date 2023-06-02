@@ -1,0 +1,4 @@
+1 412 753 824 349 0.566009 Valeta None None
+9 103 467 60 34 0.594464 Boca_de_Lobo None None
+9 43 466 70 37 0.59553 Boca_de_Lobo None None
+30 408 768 814 322 0.369341 Sarjetao_inadequado None None

@@ -1,0 +1,5 @@
+24 683 295 30 31 0.463689 Placa None None
+26 1116 582 150 48 0.549411 Tampa_de_PV None None
+23 1096 498 367 157 0.619414 Sinalizacao_Horizontal None None
+1 1008 645 489 352 0.73938 Valeta None None
+3 1115 586 146 39 0.270141 Tampa_pv_adequada None None

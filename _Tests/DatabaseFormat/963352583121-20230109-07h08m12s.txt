@@ -1,0 +1,9 @@
+1 924 479 135 70 0.424248 Valeta None None
+9 1140 552 96 58 0.529612 Boca_de_Lobo None None
+9 1095 535 83 48 0.533996 Boca_de_Lobo None None
+24 414 349 60 55 0.675486 Placa None None
+11 574 346 43 42 0.26884 Placa_de_regulamento None None
+11 411 349 63 58 0.688517 Placa_de_regulamento None None
+27 1132 534 168 55 0.320578 Boca_de_lobo_adequada None None
+27 1172 550 172 60 0.369447 Boca_de_lobo_adequada None None
+30 927 481 151 66 0.621641 Sarjetao_inadequado None None

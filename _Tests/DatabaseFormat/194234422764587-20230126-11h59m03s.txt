@@ -1,0 +1,6 @@
+26 261 783 167 43 0.600063 Tampa_de_PV None None
+1 948 837 616 244 0.628685 Valeta None None
+23 1054 800 448 250 0.634396 Sinalizacao_Horizontal None None
+3 259 784 150 34 0.602898 Tampa_pv_adequada None None
+30 951 841 655 237 0.936749 Sarjetao_inadequado None None
+34 1089 805 380 244 0.737327 faixa_de_pedestre None None

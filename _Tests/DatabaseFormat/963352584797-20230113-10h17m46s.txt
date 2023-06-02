@@ -1,0 +1,2 @@
+1 95 365 191 267 0.400693 Valeta None None
+23 503 200 452 67 0.615453 Sinalizacao_Horizontal None None

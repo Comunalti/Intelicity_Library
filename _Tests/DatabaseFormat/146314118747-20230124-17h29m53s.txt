@@ -1,0 +1,5 @@
+23 522 634 200 39 0.43582 Sinalizacao_Horizontal None None
+9 42 711 80 39 0.536847 Boca_de_Lobo None None
+1 815 660 267 100 0.6163 Valeta None None
+27 34 708 60 40 0.295512 Boca_de_lobo_adequada None None
+30 836 679 334 124 0.869578 Sarjetao_inadequado None None

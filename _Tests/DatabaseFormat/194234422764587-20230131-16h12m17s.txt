@@ -1,0 +1,2 @@
+26 375 837 132 49 0.469933 Tampa_de_PV None None
+3 374 837 128 46 0.704647 Tampa_pv_adequada None None
